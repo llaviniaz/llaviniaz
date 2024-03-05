@@ -1,7 +1,7 @@
 ### Oii Sou a Lavinia Moura, Desenvolvedora júnior e universitária no curso de ADS!
 
 - 🔭 Atualmente trabalho como free lancer
-- 🌱 Estudando phyton 
+- 🌱 Estudando: phyton 
 - 😄 Pronouns: Ela/Dela
 
 <div style="display: inline_block"><br>
